@@ -8,7 +8,7 @@ My first code in Py, this is a quick comment.
 nome = input('Insira seu nome: ')
 idade = input('Insira sua idade')
 idade = integer(idade)
-cidade = 'São José dos Campos'
+cidade = 'Aparecida'
 print('O ' + nome + ' tem ' + idade + ' anos de idade e mora em ' + cidade + '.')
 
 
